@@ -1,2 +1,2 @@
 # ListingUpdater
-StewartLynch Channel Listing Updater v1.05
+StewartLynch Channel Listing Updater v1.04
