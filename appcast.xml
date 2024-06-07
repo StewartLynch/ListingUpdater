@@ -4,11 +4,11 @@
         <title>StewartLynchYT</title>
         <item>
             <title>1.05</title>
-            <pubDate>Fri, 07 Jun 2024 11:58:36 -0700</pubDate>
+            <pubDate>Fri, 07 Jun 2024 12:26:40 -0700</pubDate>
             <sparkle:version>1.05</sparkle:version>
             <sparkle:shortVersionString>1.05</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/StewartLynch/ListingUpdater/releases/download/prod/StewartLynch.Listing.Installer.dmg" length="1913298" type="application/octet-stream" sparkle:edSignature="h5OOZ/UA4Hee3hdnNSRnL9wHjI0KzZ9G4D+C9j6k6Ya+GRx+NIHJScSWhnKlKLGFcc6MKR3zpOO5xepu0LhdBQ=="/>
+            <enclosure url="https://github.com/StewartLynch/ListingUpdater/releases/download/prod/StewartLynch.Listing.Installer.dmg" length="1924742" type="application/octet-stream" sparkle:edSignature="HOJSvyKW9G9eC+LzOAb010AGlzFODhm2oViuWI0dtv85u636uXrArZWR9/aPWUeuFg7ULCIdFSXVdwphZ91vDw=="/>
         </item>
     </channel>
 </rss>
